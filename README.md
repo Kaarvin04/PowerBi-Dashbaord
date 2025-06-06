@@ -1,2 +1,2 @@
-# PowerBi-Dashbaord
-Sales Analyst Dashbaord
+# PowerBi-Dashboard
+Sales Analyst Dashboard
